@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Deangeli"
+    given-names: "Giulio"
+    orcid: "https://orcid.org/your-orcid-id"
+  - family-names: "Spillantini"
+    given-names: "Maria Grazia"
+    orcid: "https://orcid.org/your-orcid-id"
+  - family-names: "Liò"
+    given-names: "Pietro"
+    orcid: "https://orcid.org/your-orcid-id"
+title: "VLab"
+version: "1.0.0"
+date-released: 2025-06-15
+url: "https://github.com/giuliodeangeli/vlab"
